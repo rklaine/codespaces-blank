@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Portal</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <h3>other pages on this site</h3>
+            <li>page 1</li>        
+            <li>page 2</li>
+            <li>page 3</li>
+        </ul>
+    </nav>
+    <h2>About this website</h2>
+    <p>information about what you'll find here</p>
+    <h2>Why this is important</h2>
+    <p>information, background, persuasive point</p>
+</body>
+</html>
